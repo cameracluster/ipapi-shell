@@ -1,6 +1,6 @@
 # ipapi-shell
 - a simple shell command that shows user's IP address info
-- ipapi-shell requests a json object from https://ipapi.com of user's IP info and returns a minimal output of the user's country of origin, city, continent and ip address.
+- ipapi-shell uses from https://ipapi.com API to request a json object of user's IP info and returns a minimal output of the user's country of origin, city, continent and ip address.
 
 ## Screenshot:
 ![screencap](https://github.com/cameracluster/ipapi-shell/blob/main/scap2.png?raw=true)
