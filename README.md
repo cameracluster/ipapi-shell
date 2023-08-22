@@ -3,7 +3,7 @@
 - ipapi-shell requests a json object from https://ipapi.com of user's IP info and returns a minimal output of the user's country of origin, city, continent and ip address.
 
 ## Screenshot:
-![screencap](https://github.com/cameracluster/ipapi-shell/blob/main/scap.jpg?raw=true)
+![screencap](https://github.com/cameracluster/ipapi-shell/blob/main/scap22.jpg?raw=true)
 
 ## Required:
 1. An API access key from https://ipapi.com (Free)
